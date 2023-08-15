@@ -1,0 +1,4 @@
+#!/bin/bash
+xrdb $HOME/.Xresources
+export LANG=C
+twm -display :1
